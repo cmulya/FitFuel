@@ -1,5 +1,3 @@
-# FitFuel
-
 ![Python CI](https://github.com/cmulya/Group14-Step3/actions/workflows/python-package-conda.yml/badge.svg)
 
 The link to our published package (PyPi):
